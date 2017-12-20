@@ -1,15 +1,20 @@
-Bug Tracker
+Bug Tracker Plugin
 =============================
 
-This project is a bug tracker that allows teams to work in collaboration up on their projects, to initialte tasks, report bugs ...
+This is a jenkins plugin that allow Jenkins to connect to the bug tracker app with valid credentials in order to setup the status of bugs depending on a specific commit message that should match any of the patterns that jenkins user could specify whitin jenkins configuration of the project.
 
-Getting started
+Steps to follow
 -
-- Clone this project
-- Create an empty database named "gestion_bugs"
-- Run the project on your server
+- Upload the plugin into jenkins
+- Go to Manage Jenkins -> Configure System -> Hello World Build 
+- Specify the Bug Tracker app URL alongside of your credentials
+- Click test connection button to check if your entries are correct
+- Go to your project job -> Configure -> Add build Step -> Say Hello World
+- Write a pattern to intercept from the commit message that should contains {id} of bug
+- Select the status to setup when the pattern is valid
+- Write down as many patterns as needed.
 
 Jenkins Extension
 -
-- [Notifier Plugin](http://vps471457.ovh.net/trabelsi-morsi/gestion-bugs/tree/dev-master/JenkinsPlugin)
+- [Plugin Documentation](http://vps471457.ovh.net/trabelsi-morsi/gestion-bugs/tree/dev-master/JenkinsPlugin)
 
