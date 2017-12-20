@@ -17,7 +17,11 @@ Steps to follow
 
 Jenkins Extension
 -
-- Configure System Step:
+Configure System Step:
+
 ![](http://i66.tinypic.com/25p5k5v.png)
-- Configure project:
+
+
+Configure project:
+
 ![](http://i67.tinypic.com/nn8c2c.png)
