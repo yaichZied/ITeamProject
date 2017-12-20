@@ -1,7 +1,7 @@
-Ionic Framework Starter
+Bug Tracker
 =============================
 
-Starter project for building Cordova app using [__Intel XDK__](http://xdk.intel.com) using [_Ionic Framework + AngularJS_](http://ionicframework.com/).
+This project is a bug tracker that allows teams to work in collaboration up on their projects, to initialte tasks, report bugs ...
 
 Getting started
 -
