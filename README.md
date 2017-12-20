@@ -5,13 +5,11 @@ This project is a bug tracker that allows teams to work in collaboration up on t
 
 Getting started
 -
-- Download this project
-- __Download__ free [Intel XDK](http://xdk.intel.com)
-- In Intel XDK -> Start New project -> __Import Project__ and point to this project folder
-- Checkout the project in Editor, test on Emulator and device.
-- Use Build tab to build apps for iOS, Android...
+- Clone this project
+- Create an empty database named "gestion_bugs"
+- Run the project on your server
 
-Documentation
+Jenkins Extension
 -
-- [Intel XDK Overview](http://software.intel.com/en-us/html5/xdkdocs)
+- [Notifier Plugin](http://vps471457.ovh.net/trabelsi-morsi/gestion-bugs/tree/dev-master/JenkinsPlugin)
 
