@@ -17,5 +17,7 @@ Steps to follow
 
 Jenkins Extension
 -
-- ![Plugin Documentation](http://i66.tinypic.com/25p5k5v.png)
-
+- Configure System Step:
+![Plugin Documentation](http://i66.tinypic.com/25p5k5v.png)
+- Configure project:
+![Plugin Documentation](http://i66.tinypic.com/25p5k5v.png)
